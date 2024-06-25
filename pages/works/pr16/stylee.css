@@ -1,0 +1,180 @@
+body{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    background: url(img/BG1.png);
+    width: 1600px;
+    height: 900px;
+    margin:auto;
+}
+.logo{
+  float:left;
+}
+.menu{
+  text-align: center;
+  color: white;
+}
+.da{
+  color: rgb(255, 255, 255);
+  font-size: 36px;
+}
+div a{
+  font-size:24px;
+}
+ul li{
+    display: inline-block;
+}
+hr{
+background-color: white;
+width: 1100px;
+}
+.meny{
+   background: rgb(79, 158, 219);
+    width: 100px;
+    height: 50px;
+    color:white;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+}
+.text{
+ 
+ 
+  margin: 300px 250px;
+  width: 600px;
+}
+
+.r1{
+    width: 200px;
+    height: 70px;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+}
+.google{
+  background: rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+}
+ .more{
+  background: rgb(79, 158, 219);
+  color:rgb(255, 255, 255);
+}
+.s1{
+  background-color: rgb(79, 158, 219);
+  width: 50px;
+  height: 10px;
+  border: none;
+}
+.d1{
+  text-align: center;
+  font-size: 28px;
+}
+.g1{
+  text-align: center;
+  font-size: 28px;
+  color: rgb(89, 89, 89);
+}
+.nana{
+  font-size: 28px;
+}
+.op{
+  font-size: 24px;
+  color: rgb(89, 89, 89);
+}
+.content .content1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 120px auto;
+  width: 1600px;
+  gap: 50px;
+}
+.content2 .w1{
+  display:flex;
+  justify-content: center;
+  text-align: left;
+  margin: 120px auto;
+  width: 1600px;
+  gap: 50px;
+
+}
+.content2 .w2{
+  display:flex;
+  justify-content: center;
+  text-align: left;
+  margin: 120px auto;
+  width: 1600px;
+  gap: 50px;
+}
+.content2 p{
+  color: rgb(89, 89, 89);
+}
+.i2{
+  display: flex;
+}
+.k1{
+  margin: 15px;
+}
+form{
+display: block;
+margin: 100px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+input{
+  width: 450px;
+  height: 70px;
+  margin: 10px;
+  border-radius: 50px;
+}
+.name{
+  border: none;
+  background:rgb(245, 245, 245);
+  text-align: center;
+  font-size: 24px;
+  color: rgb(191, 191, 191);
+}
+.email{
+  border: none;
+  background:rgb(226, 226, 226);
+  text-align: center;
+  font-size: 24px;
+  color: rgb(191, 191, 191);
+}
+.subscribe{
+  width: 450px;
+  height: 70px;
+  margin: 10px;
+  border-radius: 50px;
+  border: none;
+  background:rgb(76, 191, 237);
+  color: white;
+  font-size: 24px;
+  border: 300;
+}
+footer{
+width: 1000px;
+margin: 0 auto;
+
+}
+.podval{
+  display:flex;
+  text-align: left;
+ 
+  gap: 50px;
+}
+.podval .bloc1{
+  width: 300px;
+}
+.f{
+  background-color: rgb(188, 188, 188);
+width: 1000px;
+border: none;
+height: 3px;
+}
+.podval p{
+  color: rgb(89, 89, 89);
+}
